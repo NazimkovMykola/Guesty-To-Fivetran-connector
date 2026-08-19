@@ -1,3 +1,6 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
+
+<br>
 # Fivetran Guesty Custom Connector
 
 A custom Fivetran Connector built using the **Fivetran Connector SDK** to incrementally extract reservation data from the **Guesty Open API** (v1) and load it into your destination data warehouse.
